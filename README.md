@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nimi2607
-- 👀 I’m interested in C++, JAVA, Python programming
-- 🌱 I’m currently learning C++, Python, JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nimish Vadgaonkar
+- 👀 I’m interested in Python, Data Science, Machine Learning, Deep Learning 
+- 🌱 I’m currently learning Deep Learning
+- 📫 How to reach me ...nimish26.v@gmail.com
 
 <!---
 Nimi2607/Nimi2607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
